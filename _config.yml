@@ -1,0 +1,46 @@
+# Site settings
+title: "Privacy Policy for Track My Receipt"
+description: "Privacy Policy for Track My Receipt"
+url: "https://sue0-si.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: "Suhyun Lee"
+  email: "buzzingcafcat@gmail.com"
+
+# Theme
+theme: jekyll-theme-slate
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalinks
+permalink: pretty
+
+# Exclude files from the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - .gitignore
+
+# GitHub Pages settings
+github:
+  is_project_page: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
