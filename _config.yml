@@ -34,7 +34,7 @@ exclude:
 
 # GitHub Pages settings
 github:
-  is_project_page: false
+  is_project_page: true
 
 # Defaults
 defaults:
