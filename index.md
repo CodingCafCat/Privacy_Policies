@@ -44,4 +44,5 @@ Email: buzzingcafcat@gmail.com
 
 Developer: Suhyun Lee
 
+
 **Summary:** Track My Receipt does not collect, use, store, transmit, or share user data.
