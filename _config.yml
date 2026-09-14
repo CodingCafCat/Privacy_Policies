@@ -1,6 +1,4 @@
 # Site settings
-title: "Privacy Policy for Track My Receipt"
-description: ""
 url: "https://codingcafcat.github.io"
 baseurl: "/Privacy_Policies"
 
@@ -11,6 +9,10 @@ author:
 
 # Theme
 theme: jekyll-theme-slate
+
+title: Privacy Policy for Track My Receipt
+description: ""
+show_downloads: false
 
 # Build settings
 markdown: kramdown
