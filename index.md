@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 
 # Privacy Policy
-**Last Updated: September 6, 2026**
+**Last Updated: September 14, 2026**
 
 Track My Receipt is committed to protecting your privacy. This Privacy Policy explains how information is handled when you use the App.
 
