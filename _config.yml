@@ -1,7 +1,7 @@
 # Site settings
 title: "Privacy Policy for Track My Receipt"
-url: "https://codingcafcat.github.io"
-baseurl: "/Privacy_Policies"
+url: "https://codingcafcat.github.io/Privacy_Policies""
+baseurl: 
 
 # Author
 author:
