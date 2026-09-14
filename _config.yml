@@ -35,10 +35,6 @@ exclude:
   - README.md
   - .gitignore
 
-# GitHub Pages settings
-github:
-  is_project_page: true
-
 # Defaults
 defaults:
   - scope:
